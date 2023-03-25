@@ -18,10 +18,10 @@
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
 
-- [ x ] User can open the creation screen
-- [ x ] User can cancel out of the creation screen
-- [ x ] User can enter a new question and answer in the creation screen to then show it on the flashcard
-- [ x ] Push code to GitHub
+- [x] User can open the creation screen
+- [x] User can cancel out of the creation screen
+- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x] Push code to GitHub
 ## Optional
 - [ ] User gets an error if they try to create a new flashcard with no question or answer
 - [ ] User can edit existing flashcard
